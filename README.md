@@ -5,7 +5,7 @@
 
 [![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelMevil&show_icons=true&theme=merko)](https://github.com/MiguelMevil/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMevil&layout=compact&theme=merko)](https://github.com/MiguelMevil/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMevil&theme=merko)
 
 ### Algumas expecializações minhas (Atualmente aprendendo HTML, Java, Javascript e CSS). 
 
