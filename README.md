@@ -13,3 +13,8 @@
 >Algumas expecializações minhas (Atualmente aprendendo HTML, Java, Javascript e CSS).
 >
 
+![image](https://github.com/MiguelMevil/MiguelMevil/assets/116851813/78f4c6e0-3907-459e-8482-af17783730b4)
+![image](https://github.com/MiguelMevil/MiguelMevil/assets/116851813/aade676a-f301-4f3c-a8c2-9712a40e6aa6)
+![image](https://github.com/MiguelMevil/MiguelMevil/assets/116851813/46ccf2dc-aec5-44c1-9b03-e9192427f8d1)
+![image](https://github.com/MiguelMevil/MiguelMevil/assets/116851813/da89e7fa-4029-4ea7-b216-c17a1b6fccf5)
+
