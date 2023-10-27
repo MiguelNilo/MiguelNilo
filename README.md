@@ -14,7 +14,7 @@
 >
 
 <div style="display: inline_block">
-  <img align="center" alt="html" src="![image](https://github.com/MiguelMevil/MiguelMevil/assets/116851813/ec5238b6-885a-470e-958d-e26c717d2e60)" />
+  ![image](https://github.com/MiguelMevil/MiguelMevil/assets/116851813/9141e1e1-04ef-4c80-b137-82f514a24c87)
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
