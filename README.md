@@ -1,5 +1,7 @@
 ## Olá! Me chamo Miguel! 📌
-### Sou um estudante em técnico em informática e também um artista digital, as minhas redes sociais estão abaixo.
+### Sou um estudante em técnico em informática e também um artista digital. Possuo um enorme interesse no ramo tecnológico e busco aprender cada vez mais.
+
+####  as minhas redes sociais estão abaixo.
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/miguel.mevil)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/miguel_mevil)
 
