@@ -10,7 +10,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMevil&theme=merko)
 
-### Algumas expecializações minhas (Atualmente aprendendo HTML, Java, Javascript e CSS). 
+>Algumas expecializações minhas (Atualmente aprendendo HTML, Java, Javascript e CSS).
+>
 
 <div style="display: inline_block">
   <img align="center" alt="delphi" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
@@ -20,5 +21,3 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
-
-Busco aprender cada vez mais! 
