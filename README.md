@@ -10,7 +10,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMevil&theme=merko)
 
->Algumas expecializações minhas (Atualmente aprendendo HTML, Java, Javascript e CSS).
+>Algumas expecializações minhas (Atualmente aprendendo HTML, CSS, JavaScript, Java e programação em Arduino).
 >
 
 <div align="center">
@@ -19,5 +19,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
 
 </div><br/>
