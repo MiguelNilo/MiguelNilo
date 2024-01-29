@@ -10,6 +10,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="50" height="50"/>
 </div><br/>
 
+<h2><strong>Meus Status</strong></h2>
+
 [![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelMevil&show_icons=true&theme=merko)](https://github.com/MiguelMevil/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMevil&theme=merko)
