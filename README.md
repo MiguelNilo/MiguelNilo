@@ -1,6 +1,6 @@
 <h2><strong>Olá! Seja bem-vindo! 📌</strong></h2>
 <p>Me chamo Miguel Nilo, sou técnico em informática e artista digital. Estou sempre buscando aprender cada vez mais e aprimorar minhas habilidades.</p>
-<p>Atualmente possuo conhecimentos básicos em HTML5, CSS3, SQL, PHP, JavaScript e Object Pascal</p>
+<p>Atualmente possuo conhecimentos básicos em HTML5, CSS3, SQL, PHP, JavaScript e Object Pascal.</p>
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
